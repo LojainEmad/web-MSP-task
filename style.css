@@ -120,7 +120,7 @@ padding:25px var(--totalPadding);
     font-size:25px;
 }
 Homepagetotal .home-content .search-box{
-    background-image: url("images/background_blur.png");
+    background-image: url("background_blur.png");
     background-size: cover;
     display: flex;
     flex-direction: row;
@@ -357,7 +357,7 @@ padding-bottom:20px;
   }
   .third-page .cards-table .card-table2{
    /*background-color: #e34c21;*/
-    background-image: url("images/background_blur.png");
+    background-image: url("background_blur.png");
     background-size: cover;
     position: relative;
   }
@@ -400,7 +400,7 @@ padding-bottom:20px;
   footer {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    background-image:url("images/background_blur.png");
+    background-image:url("background_blur.png");
     background-size: cover;
     color: white;
     padding: var(--totalPadding);
@@ -560,7 +560,7 @@ footer .forthpart-footer h2 {
         left: -100%;
         width: 100vw;
         height: 100vh;
-        background-image: url("images/background_blur.png");
+        background-image: url("background_blur.png");
         background-size: cover;
         padding: 30px;
         transition: all 0.5s linear;
